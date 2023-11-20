@@ -110,4 +110,8 @@ private WebElement colorChkBox;
 		return BuyNowBtn;
 	}
 
+	
+	
+	
+	
 }
