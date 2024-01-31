@@ -28,7 +28,7 @@ public class Login_WebElement {
 	private WebElement color;
 	
 	@FindBy(xpath = "//label[@for='fltr-white']")						//label[@for='fltr-white'
-private WebElement colorChkBox;
+	private WebElement colorChkBox;
 	
 	@FindBy(xpath = "//div[@class='p8 tab fs15 bgFB has-sub open']")		//div[@class='p8 tab fs15 bgFB has-sub open']
 	private WebElement Size;
